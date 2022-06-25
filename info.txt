@@ -1,2 +1,2 @@
 These are the primary colors.
-Orange is a secondary color.
+Indigo is a secondary color.
